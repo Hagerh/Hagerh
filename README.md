@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/miniHager.png" width="220" alt="Hager's 3D chibi character" />
+<img src="assets/miniHager.webp" width="240" alt="Hager's 3D chibi character" />
 
 <br/><br/>
 
